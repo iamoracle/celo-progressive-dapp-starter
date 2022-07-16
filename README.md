@@ -1,3 +1,9 @@
+<h3>How to Build an Android DApps using Celo Composer & React Native?</h3>
+
+This article explains the Android app development with React Native and Celo. You’ll be able to learn how to download and install Node.js and NPM on your computer. You’ll also learn how to install Expo CLI and build an Android app from the scratch.
+
+<a href="https://iamoracle.hashnode.dev/how-to-build-an-android-dapps-using-celo-composer-react-native">Full Tutorial URL</a>
+
 <div id="top"></div>
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
